@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 I'm a Full Stack JavaScript Developer passionate about building modern web applications with React, Node.js, and cutting-edge technologies. I specialize in creating performant, scalable, and user-friendly solutions.
 
-- 🔭 I'm currently working on [current project]
-- 🌱 I'm currently diving deeper into [specific technology you're learning]
+- 🔭 I'm currently working on voice controlled pdf generator
+- 🌱 I'm currently diving deeper into openai sdk
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about React performance optimization or backend architecture
-- ⚡ Fun fact: [something interesting about you]
+- ⚡ Fun fact: I love building things that make me lazy
 
 ## 🛠️ Tech Stack
 
